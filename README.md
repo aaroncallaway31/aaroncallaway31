@@ -26,7 +26,7 @@ Languages Used: HTML | CSS | JavaScript
 
 
 ### Roll/Save/Roll
-[![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-green.svg)](https://shields.io/)
 
 A CLI program that implements vanilla Java to recreate the rolling mechanics of the popular game of Yahtzee. 
 
