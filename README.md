@@ -1,7 +1,7 @@
-### Hi there 👋
+### About Me
 
-My name is Aaron Callaway, and I am a new software developer.
-I am 38 years old.
-I am married with one child, a five year old named Wednesday.
-I have 3 dogs and will probably never sleep through the night again thanks to them :-P
-I live in Nebraska currently
+I'm a software developer, former teacher, and master crafter with over 12 years of experience in the education field. Ever since I can remember, I have been very organized and orderly, to the point where I have an inner monologue helping me with my daily taska and the quickest way to accomplish my goal. In my undergrad as a math student, I studied the shortest distance problem, and today try to use those ideas to take the most efficient path to my destination with the fewest stops. It is this mindset that makes my brain perfect for the coding world. I naturally organize my thoughts in a way that makes sense, and with my background as a teacher I also am very comfortable working in a team. I understand the importance of being a life long learner, especially when working in the tech field. Computers are ever changing, and it is our job as software developers to learn, and grow with the code being pushed. I have a strong passion for puzzles and finding solutions, and I look forward to finding a place where I can put my coding skills to a good use and help a company grow.
+
+## Tech Elevator
+[![Generic badge](https://img.shields.io/badge/<Status>-<Complete>-<GREEN>.svg)](https://shields.io/)
+Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
