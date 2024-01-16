@@ -7,6 +7,8 @@ I'm a software developer, former teacher, and master crafter with over 12 years 
 
 Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application. While there I learned about about a ton including Spring Boot, Java, PostgreSQL, HTML, CSS, JavaScript, Vue.js, Responsive Design, IntelliJ, Git, Unit Testing (JUnit), E/R diagrams, and Integration Testing.
 
+## Side Projects
+
 ### 2000's Media Colsolidation
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
 
