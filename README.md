@@ -9,3 +9,25 @@ Tech Elevator is a 14-week full-stack coding bootcamp learning how to create dyn
 
 ### 2000's Media Colsolidation
 [![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
+
+Movie/TV Database which implements a Java program back end to pull information from an API and auto sort into SQL Databases, that information is then given to a front end to display.
+A project to showcase what I learned at Tech Elevator. The idea came when I noticed my personal collection of DVD's collecting dust in my basement, and finding a solution to minimize the space being taken, while organizing my DVD's in a way that would be easy to refer to when I wanted to actually watch a physical movie. I then created a relational database using SQL, and began hard coding information directly into SQL. After several hours of hard coding, it was painfully obvious why having a back end and API was so important. From here I used Java, JDBC Template, and Postman API's to create an application where I wouldn't need to hard code data in my tables anymore. From here I created a very basic fron end using Vue to display my data.
+
+ Languages Used: Java | Spring Boot | PostgreSQL | IntelliJ | API | JavaScript | CLI | Vue
+
+
+### HTML/CSS/JavaScript Reference Sheet
+[![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
+
+Front end reference sheet for the basics of HTML, CSS, and JavaScript, using only HTML, CSS, and JavaScript.
+This project showcases the abilitly to build a website using ONLY the languages mentioned.
+
+Languages Used: HTML | CSS | JavaScript
+
+
+### Roll/Save/Roll
+[![Generic badge](https://img.shields.io/badge/STATUS-IN_PROGRESS-red.svg)](https://shields.io/)
+
+A CLI program that implements vanilla Java to recreate the rolling mechanics of the popular game of Yahtzee. 
+
+Languages Used: Java | CLI
